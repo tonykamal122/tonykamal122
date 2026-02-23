@@ -11,7 +11,7 @@
 </p> 
 
 - 🎓 I'm a CS student at MTI University, passionate about problem-solving and backend development.
-- 👨‍💻 I love algorithms, data structures, and writing optimized solutions in C++ and Python.
+- 👨‍💻 I love algorithms, data structures, and writing optimized solutions in C++ and C#.
 - 🔍 Interested in backend technologies, especially C# & ASP.NET.
 - 🚀 I enjoy translating and optimizing C++ code into Python and vice versa / Codeforces Specialist
 - ⚡ Fun Fact: I prefer variable names to be as short as possible!  
